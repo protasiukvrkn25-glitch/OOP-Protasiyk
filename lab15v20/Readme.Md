@@ -22,12 +22,16 @@
 Усі завдання виконано та перевірено.
 завдання 1
 ![alt text](image.png)
+
 завдання 2
 ![alt text](image-1.png)
+
 завдання 3
 ![alt text](image-2.png)
+
 завдання 4
 ![alt text](image-3.png)
+
 
 
 ## Висновок
